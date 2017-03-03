@@ -1,0 +1,40 @@
+body {
+	background-image: url(http://i.imgur.com/g2rmWkU.png);
+}
+header nav ul {
+	list-style: inline;
+	text-align: center;
+}
+
+header nav ul li {
+	display: inline-flex;
+	background-color: #a09798;
+	padding: 20px;
+	margin: 90px;
+	border: 1px solid black;
+}
+
+#Primeiro {
+	display: inline-flex;
+	background-color: #a09798;
+	padding: 20px;
+	margin: 90px;
+	border: 1px solid black;
+
+}
+
+#Segundo {
+	display: inline-flex;
+	background-color: #a09798;
+	padding: 20px;
+	margin: 90px;
+	border: 1px solid black;
+}
+
+#Terceiro {
+	display: inline-flex;
+	background-color: #a09798;
+	padding: 20px;
+	margin: 90px;
+	border: 1px solid black;
+}
